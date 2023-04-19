@@ -1,5 +1,6 @@
 ### Проектная работа: Научиться учиться
 
+![how to learn](https://github.com/YukinaSan91/how-to-learn/blob/main/images/how-to-learn.png)
 ______________________
 
 ### Основные методы и технологии
